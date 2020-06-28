@@ -1,0 +1,4 @@
+[0816/153333.141:ERROR:process_info.cc(329)] VirtualQueryEx: 拒绝访问。 (0x5)
+[0816/153333.142:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0816/153333.142:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: 已尝试访问正在退出的过程。 (0xc000010a)
+[1115/162927.269:ERROR:settings.cc(320)] Settings magic is not 1129342067
